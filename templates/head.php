@@ -3,7 +3,7 @@
 <!-- separated in a file to facilitate maintenance -->
 
 <head>
-    <title>INFO1208-Week03-<?php echo TITLE; ?></title>
+    <title>INFO1208-Week04-<?php echo TITLE; ?></title>
     <meta charset="utf8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
