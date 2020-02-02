@@ -1,5 +1,5 @@
 <?php
-define("_TITLE", "I think what you are looking for is not here!");
+define("_TITLE", "Method not allowed for this HTTP Request!");
 ?>
 
 <!doctype html>
@@ -8,7 +8,7 @@ define("_TITLE", "I think what you are looking for is not here!");
 
 <body>
     <h1><?php echo _TITLE; ?></h1>
-    <img src="../img/404.png" />
+    <img src="../img/405.png" />
 </body>
 
 </html>
